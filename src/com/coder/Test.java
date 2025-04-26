@@ -11,5 +11,6 @@ public class Test {
         System.out.println("aaaa");
         System.out.println("aaaa");
         System.out.println("mmmm");
+        System.out.println("mmmm");
     }
 }
